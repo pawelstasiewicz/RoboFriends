@@ -1,0 +1,14 @@
+.cardStyle{
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 20px black;
+    cursor: pointer;
+    text-align: center;
+
+}
+
+.cardTextStyle{
+    margin: 25px;
+}
